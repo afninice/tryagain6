@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Catalog Movies </string>
+
+    <string name="name_movies">Nama movie</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="name">
+        <item>A Star Is Born (2018) </item>
+        <item>Aquaman (2018) </item>
+        <item>Bird Box (2018) </item>
+        <item>Bohemian Rhapsody (2018) </item>
+        <item>Bumble Bee (2018) </item>
+        <item>Creed  II (2018) </item>
+        <item>Once Upon A Deadpool (2018) </item>
+        <item>Dragon The Hidden World (2019) </item>
+        <item>Dragon Ball Broly (1993)</item>
+        <item>Glass (2019) </item>
+        <item>Hunter Killer (2018) </item>
+        <item>Mary Poppins Returns (2018) </item>
+        <item>Mortal Engines (2018)</item>
+        <item>Preman pensiun (2019)</item>
+
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Seasoned musician Jackson Maine discovers  and falls in love with  struggling artist Ally.</item>
+        <item>Once home to the most advanced civilization on Earth.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist .</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.</item>
+        <item>Between personal obligations and training for his next big fight.</item>
+        <item>A kidnapped Fred Savage is forced to endure.</item>
+        <item>As Hiccup fulfills his dream of creating </item>
+        <item>In a series of escalating encounters, </item>
+        <item>Captain Glass of the USS Arkansas discovers that</item>
+        <item>In Depression-era London, a now-grown Jane and Michael Banks</item>
+        <item>Many thousands of years in the future, </item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar).</item>
+
+    </string-array>
+
+    <string-array name="foto">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+
+    </string-array>
+
+    <string-array name="director">
+        <item>Bradley Cooper</item>
+        <item>James Wan</item>
+        <item>Joe Russo and Anthony Russo</item>
+        <item>Susanne Bier</item>
+        <item>Bryan Singer</item>
+        <item>Travis Knight</item>
+        <item>Ryan Coongler</item>
+        <item>David Leitch</item>
+        <item>Dean DeBlosis</item>
+        <item>Shigeyasu Yamauchi</item>
+        <item>M. Night Shyamalan</item>
+        <item>Donovan Marsh</item>
+        <item>Rob Marshall</item>
+        <item>Christian Rivers</item>
+        <item>Aris Nugraha</item>
+
+    </string-array>
+
+</resources>
